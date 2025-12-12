@@ -52,7 +52,7 @@ The basic architecture can be summarized as below, heavily inspired by focalcode
 I am seeking GPU Contributions to help improve this model considerably and build new projects, any such contributions will be very helpful. 
 I am also happy to solve any issues through email or github issues. 
 
-Email: yatharthsharma3501@gmail.com
+Email: yatharthsharma350@gmail.com
 
 This is also heavily inspired by [FocalCodec](https://github.com/lucadellalib/focalcodec) and [NandemoGHS's xcodec2 model](https://huggingface.co/NandemoGHS/Anime-XCodec2-44.1kHz-v2), so thanks very much to them.
 
